@@ -1,2 +1,10 @@
-# template-python-project
-Starter Python project for scripts and tools
+# Python Project Template
+
+This is a starter template for Python projects.
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+python main.py
+
